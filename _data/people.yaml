@@ -9,17 +9,25 @@
 # of the `page01_people.md` file.
 # ##############################################################################
 - author:
-  name: Instructor 1
-  link: "http://google.com"
+  name: Rob Phillips  (Caltech)
+  link: "https://rpgroup.caltech.edu"
   title: Instructor
   img: rob.jpg
   other_info:
-     Email Address: "blank [at] university [dot] gov"
+     Email Address: "phillips [at] caltech [dot] edu"
 
 - author:
-  name: Instructor 2 without an image
-  title: TA 
+  name: Madhav Mani (Northwestern)
+  title: Instructor  
+  link: "https://www.madhavmani.com/"
+  img: madhav.png
+  other_info:
+    Email Address: "madhav.mani [at] gmail [dot] com"
 
 - author:
-  name: Instructor 3 without an image
-  title: TA
+  name: Griffin Chure (Stanford)
+  title: Teaching Assistant
+  link: "https://gchure.github.io" 
+  image: headshot_2022.png
+  other_info:
+    Email Address: "gchure [at] stanford [dot] edu"

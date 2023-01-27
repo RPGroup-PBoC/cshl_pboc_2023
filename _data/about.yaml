@@ -10,11 +10,20 @@
 # The content below will appear 
 
 title: >
-  Blank Course 101
+  Physical Biology of the Cell 
 
 Summary: >
-  Summary of course. It can even include math! $$S = k_B\ln W$$.
+  It is a wonderful time to be thinking about the workings of the living world.
+  Historic advances in molecular biology, structural biology and the use of
+  biophysical techniques such as optical traps have provided an unprecedented
+  window on the mechanics of the cell. The aim of this course is to study the
+  cell and its components using whatever tools we need in order to make
+  quantitative and predictive statements about cellular life. The main
+  intellectual thread of the course will be the idea that the type of
+  quantitative data which is becoming routine in biology calls for a
+  corresponding quantitative modeling framework. The plan of this course is to
+  elucidate general principles with exciting case studies. 
 
-News: >
-  We will keep this website updated with links to relevant publications and small
-  problems to help you get a quantitative feel for viruses. 
+# News: >
+#   We will keep this website updated with links to relevant publications and small
+#   problems to help you get a quantitative feel for viruses. 

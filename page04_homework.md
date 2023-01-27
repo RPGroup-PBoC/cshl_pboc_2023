@@ -3,7 +3,7 @@ layout: page
 title: Homework
 img: code.png # Add image post (optional)
 permalink: homework
-sidebar: true
+sidebar: false
 ---
 
 ---
