@@ -17,7 +17,7 @@ Edit those to update the website
 <p> As the course progresses, we will post links to treadings relevant to what 
 we've talked about in class</p>
 
-{% for day in site.data.readings %}
+<!-- {% for day in site.data.readings %} -->
 <!-- ## {{day[0]}}
 {% for pub in day[1] %}
 * [**{{pub.title}}**]({{site.baseurl}}/assets/pdfs/{{pub.link}}) by
@@ -26,7 +26,7 @@ we've talked about in class</p>
 {%endfor%}
 {%endfor%} -->
 
-<center>
+<!-- <center>
 <h1> Useful links</h1>
 </center>
 
@@ -35,4 +35,4 @@ we've talked about in class</p>
 {%for link in site.data.links%}
 * [**{{link.title}}**]({{link.address}}) {%if link.description %}{{link.description}}{%endif%}
 {%endfor%}
-
+ -->
