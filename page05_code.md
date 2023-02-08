@@ -19,6 +19,7 @@ post the discussed or related notebooks below.
  We will post links to Jupyter Notebooks hosted on colab of the tutorial
 sessions here. 
 
+
 <!-- {% for topic in site.data.code %}
 # {{topic[0]}}
 {% for script in topic[1] %}

@@ -14,16 +14,21 @@ title: >
 
 Summary: >
   It is a wonderful time to be thinking about the workings of the living world.
-  Historic advances in molecular biology, structural biology and the use of
-  biophysical techniques such as optical traps have provided an unprecedented
-  window on the mechanics of the cell. The aim of this course is to study the
-  cell and its components using whatever tools we need in order to make
-  quantitative and predictive statements about cellular life. The main
-  intellectual thread of the course will be the idea that the type of
-  quantitative data which is becoming routine in biology calls for a
-  corresponding quantitative modeling framework. The plan of this course is to
-  elucidate general principles with exciting case studies. 
+  Historic advances ranging from the use of satellites and drones to track animals
+  to the use of biophysical techniques such as optical traps to measure the forces
+  applied by molecular motors have provided an unprecedented window on the living.
+  The aim of this course is to take a broad view of the use of quantitative
+  thinking to query the nature of the living with emphasis on a panoply of
+  problems such as the herding of wildebeest, how to think about transcriptomes
+  and how living organisms perform tasks that seem to contradict the increase of
+  entropy.  We will study these problems using whatever tools we need in order to
+  make quantitative and predictive statements about  life. The main intellectual
+  thread of the course will be the idea that the type of quantitative data which
+  is becoming routine in biology calls for a corresponding quantitative modeling
+  framework. The plan of this course is to elucidate general principles with
+  exciting case studies and to include abundant opportunities to turn our models
+  into computer code using Python that will help us develop our intuition.
 
 # News: >
-#   We will keep this website updated with links to relevant publications and small
-#   problems to help you get a quantitative feel for viruses. 
+  # Our  
+  
