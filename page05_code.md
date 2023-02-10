@@ -12,11 +12,9 @@ During this course, you will develop a computational prowess that will aid in
 your understanding of physical biology.  These will
 be done using Jupyter notebooks through [Google
 Colab](https://colab.research.google.com/), so you will need to sign into a
-Google Account to create new notebooks. If you would like to set up Python on
-your own computers, follow Tutorial 0a below. As the course progresses, we will
-post the discussed or related notebooks below.
+Google Account to create new notebooks.  
 
- We will post links to Jupyter Notebooks hosted on colab of the tutorial
+We will post links to Jupyter Notebooks hosted on colab of the tutorial
 sessions here. 
 
 
