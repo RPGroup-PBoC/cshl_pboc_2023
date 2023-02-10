@@ -20,7 +20,7 @@ post the discussed or related notebooks below.
 sessions here. 
 
 
-<!-- {% for topic in site.data.code %}
+{% for topic in site.data.code %}
 # {{topic[0]}}
 {% for script in topic[1] %}
 
@@ -28,4 +28,4 @@ sessions here.
   {{script.description}}  {%if script.links %} <i>{%for l in script.links
   %}[**\[{{l[0]}}\]**](assets/code/{{l[1]}}){%endfor%}</i>{%endif%}
 {% endfor %}
-{%endfor%} -->
+{%endfor%}
