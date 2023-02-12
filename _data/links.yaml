@@ -34,6 +34,20 @@
     Facebook for whales. A database of images of individual whales to track 
     population size and migrations.
 
+- link:
+  title: "Learn how to Build Neural Networks from Scratch in Python for Digit Recognition" 
+  address: "https://medium.com/analytics-vidhya/neural-networks-for-digits-recognition-e11d9dff00d5"
+  description: >
+    A more detailed treatment of image processing using machine learning, coding 
+    up a multi-layer neural network from scratch. 
+
+- link:
+  title: "Introduction to basic image processing"
+  address: "https://bebi103a.github.io/recitations/02/image_processing_intro.html?"
+  description: > 
+    A series of Python tutorials on basic image processing, with a little more 
+    detail than what we did in class.
+    
 # - link:
 #   title: Nextstrain. 
 #   address: "https://nextstrain.org/ncov"
