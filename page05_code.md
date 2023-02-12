@@ -21,9 +21,8 @@ sessions here.
 {% for topic in site.data.code %}
 # {{topic[0]}}
 {% for script in topic[1] %}
-
-* {%if script.colab %}[**{{script.title}}**]({{script.colab}}){%else%}**{{script.title}}** \|
+* {%if script.colab %}[**{{script.title}}**]({{script.colab}}){%else%}**{{script.title}}**{%endif%} \|
   {{script.description}}  {%if script.links %} <i>{%for l in script.links
   %}[**\[{{l[0]}}\]**](assets/code/{{l[1]}}){%endfor%}</i>{%endif%}
-{% endfor %}
+{%endfor%}
 {%endfor%}
