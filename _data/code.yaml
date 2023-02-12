@@ -13,6 +13,7 @@ Tutorials:
 Exercises:
   - script: 
     title: "Tutorial 1: Basic Image Processing and Counting Elephants from Space"
+    colab: "https://colab.research.google.com/drive/1dcNMsLVB3D9DfLFKLQj5I_-qbFj3lDoh"
     description: >  
       In this exercise, we learn some simple techniques of quantitative image 
       processing and try to count elephants in two satellite images.
