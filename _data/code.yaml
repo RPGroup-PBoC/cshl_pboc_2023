@@ -26,8 +26,8 @@ Exercises:
       In this exercise, we cover the basics of machine learning and create an
       artificial neuron from scratch to identify "elephants" in a toy dataset. 
     links:
-      Example Training Image: "https://rpgroup.caltech.edu/cshl_pboc_2023/elephant_training_image.tif"
-      Example Training Label Image: "https://rpgroup.caltech.edu/cshl_pboc_2023/elephant_training_label.tif"
-      Complete Training Dataset: "https://rpgroup.caltech.edu/cshl_pboc_2023/elephant_training_pixels.csv"
-      Test Image: "https://rpgroup.caltech.edu/cshl_pboc_2023/elephant_test_image.tif"
-      Test Label Image: "https://rpgroup.caltech.edu/cshl_pboc_2023/elephant_test_label.tif"
+      Example Training Image: "http://rpgroup.caltech.edu/cshl_pboc_2023/elephant_training_image.tif"
+      Example Training Label Image: "http://rpgroup.caltech.edu/cshl_pboc_2023/elephant_training_label.tif"
+      Complete Training Dataset: "http://rpgroup.caltech.edu/cshl_pboc_2023/elephant_training_pixels.csv"
+      Test Image: "http://rpgroup.caltech.edu/cshl_pboc_2023/elephant_test_image.tif"
+      Test Label Image: "http://rpgroup.caltech.edu/cshl_pboc_2023/elephant_test_label.tif"
