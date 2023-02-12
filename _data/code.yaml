@@ -18,6 +18,7 @@ Exercises:
       In this exercise, we learn some simple techniques of quantitative image 
       processing and try to count elephants in two satellite images.
     links:
+      In-Class Code: "https://colab.research.google.com/drive/15dg4M7gWi7BpTtbcKKK2yTD43y1EycN_?usp=sharing"
       Elephant Image 1: "http://rpgroup.caltech.edu/cshl_pboc_2023/datasets/Elephants1.jpg"
       Elephant Image 2: "http://rpgroup.caltech.edu/cshl_pboc_2023/datasets/Elephants2.jpg"
 
@@ -27,6 +28,7 @@ Exercises:
       In this exercise, we cover the basics of machine learning and create an
       artificial neuron from scratch to identify "elephants" in a toy dataset. 
     links:
+      In-Class Code (Day 1): "https://colab.research.google.com/drive/1eGKGDC3e0Tourscm7VW__xeJeeAuW7Jj?usp=sharing"
       Example Training Image: "http://rpgroup.caltech.edu/cshl_pboc_2023/datasets/elephant_training_image.tif"
       Example Training Label Image: "http://rpgroup.caltech.edu/cshl_pboc_2023/datasets/elephant_training_label.tif"
       Complete Training Dataset: "http://rpgroup.caltech.edu/cshl_pboc_2023/datasets/elephant_training_pixels.csv"
