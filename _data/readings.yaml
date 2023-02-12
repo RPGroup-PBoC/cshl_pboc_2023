@@ -66,3 +66,12 @@ Day 1:
    description: >
     This is an incredible paper which quantitatively explores predator-prey dynamics
     of the Serengeti ecosystem, showing that ≈100% of impala die from predation. 
+
+ - pub:
+   title: A comparison of deep learning and citizen science techniques for counting wildlife in aerial survey images 
+   author: Colin J. Torney, David J. Lloyd-Jones, Mark Chevallier, David C. Moyer, Honori T. Maliti,  Machoke Mwita, Edward M. Kohi, Grant C. Hopcraft
+   year: 2019
+   link: torney2019.pdf
+   description: >
+    This is a fun paper that does a systematic comparison between  deep learning for detection 
+    of animals and human annotation by citizen scientists.
