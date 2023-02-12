@@ -29,6 +29,6 @@ Exercises:
     links:
       Example Training Image: "http://rpgroup.caltech.edu/cshl_pboc_2023/datasets/elephant_training_image.tif"
       Example Training Label Image: "http://rpgroup.caltech.edu/cshl_pboc_2023/datasets/elephant_training_label.tif"
-      Complete Training Dataset: "http://rpgroup.caltech.edu/cshl_pboc_2023/datasets/lephant_training_pixels.csv"
+      Complete Training Dataset: "http://rpgroup.caltech.edu/cshl_pboc_2023/datasets/elephant_training_pixels.csv"
       Test Image: "http://rpgroup.caltech.edu/cshl_pboc_2023/datasets/elephant_test_image.tif"
       Test Label Image: "http://rpgroup.caltech.edu/cshl_pboc_2023/datasets/elephant_test_label.tif"
