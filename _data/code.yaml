@@ -9,5 +9,27 @@ Tutorials:
     colab: "https://colab.research.google.com/drive/1Jvi1pCsQ2yjmSwcNRp1K3YsG_DDvcKEA?usp=sharing"
     description: >
       This tutorial gives a quick intro to programming in Python. 
+      
+Exercises:
+  - script: 
+    title: "Tutorial 1: Basic Image Processing and Counting Elephants from Space"
+    description: >  
+      In this exercise, we learn some simple techniques of quantitative image 
+      processing and try to count elephants in two satellite images.
+    links:
+      Elephant Image 1: "https://rpgroup.caltech.edu/cshl_pboc_2023/Elephants1.jpg"
+      Elephant Image 2: "https://rpgroup.caltech.edu/cshl_pboc_2023/Elephants2.jpg"
+
+  - script: 
+    title: "Tutorial 2: Spotting Elephants Through Machine Learning"
+    description: >  
+      In this exercise, we cover the basics of machine learning and create an
+      artificial neuron from scratch to identify "elephants" in a toy dataset. 
+    links:
+      Example Training Image: "https://rpgroup.caltech.edu/cshl_pboc_2023/elephant_training_image.tif"
+      Example Training Label Image: "https://rpgroup.caltech.edu/cshl_pboc_2023/elephant_training_label.tif"
+      Complete Training Dataset: "https://rpgroup.caltech.edu/cshl_pboc_2023/elephant_training_pixels.csv"
+      Test Image: "https://rpgroup.caltech.edu/cshl_pboc_2023/elephant_test_image.tif"
+      Test Label Image: "https://rpgroup.caltech.edu/cshl_pboc_2023/elephant_test_label.tif"
 
 

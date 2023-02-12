@@ -1,8 +1,12 @@
 
-# - link:
-#   title: VIPERdb. 
-#   address: "http://viperdb.scripps.edu/"
-#   description: VIPERdb houses structural analysis for icosahedral virus capsid structures. They have renderings online and computational analyses. Mentioned in lecture 1.
+- link:
+  title: The Human Impacts Database. 
+  address: "https://anthroponumbers.org"
+  description: >
+    This website has a variety of useful numbers that will be helpful either in
+    formulating or checking our estimates about the interactions of humans with
+    the flora and fauna that surround us as well as the oceans, the land and the
+    atmosphere. 
 
 # - link:
 #   title: Nextstrain. 

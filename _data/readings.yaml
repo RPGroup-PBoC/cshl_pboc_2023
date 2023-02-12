@@ -1,19 +1,49 @@
-# Day 1:
-#  - pub: 
-#    title: The Los Alamos primer -- The first lectures on how to build an atomic bomb.
-#    authors: Robert Serber.
-#    year: 1992
-#    link: Los_Alamos_Primer.pdf
-#    description: >
-#       This famous set of lectures was delivered at Los Alamos during
-#       the Manhattan Project by Prof. Robert Serber. The goal of these lectures was
-#       to get the very bright but inexperienced young researchers up to speed on the
-#       key elements of nuclear physics they would need to build the atomic bomb.
-
-#  - pub: 
-#    title: Energetic cost of building a virus.
-#    authors: G. Mahmoudabadi, Ron Milo, Rob Phillips.
-#    year: 2017
-#    link: energetic.pdf
-#    description: >
-#       Energetic costs for viral assembly in T4 and influenza, mentioned in lecture 1.
+Day 1:
+ - pub: 
+  title: Terrestrial animal tracking as an eye on life and planet. 
+  authors: Roland Kays, Margaret C. Crofoot, Walter Jetz, and Martin Wikelski.
+  year: 2015
+  link: kays2015.pdf
+  description: >
+    This very insightful article gives a wide ranging introduction to the modern
+    state of the art in animal tracking. Every figure tells an important story.
+- pub: 
+  title: Estimation of forage biomass and vegetation cover in grasslands using UAV imagery .
+  authors: Jérôme Théau, Étienne Lauzier-Hudon, Lydiane Aubé, and Nicolas Devillers.
+  year: 2021
+  link: theau2021.pdf
+  description: >
+    This paper is a useful resource for thinking about the biomass of
+    grasslands, relevant to our thinking for both the migration of wildebeest
+    and the grazing of our cattle.
+- pub:
+  title: Challenges and solutions for studyingcollective animal behaviour in the wild.
+  authors: Lacey F. Hughey, Andrew M. Hein, Ariana Strandburg-Peshkin, and Frants H. Jensen.
+  year: 2017
+  link: hughey2017.pdf
+  description: >
+    This paper gives a very insightful overview of the technologies that are
+    needed to study collective motions of animals.
+- pub:
+  title: Distinguishing technology from biology:a critical review of the use of GPS telemetry data in ecology.
+  authors: Mark Hebblewhite and Daniel T. Haydon
+  year: 2010
+  link: hebblewhite2010.pdf
+  description: > 
+    This paper takes a critical look at the generation of “big data” associated
+    with animal movements. Though we are incredibly enthusiastic about GPS
+    tracking, the arguments here remind us of our own thinking on the way that
+    DNA sequencing and structural biology have created a similar big data
+    pressure head in the molecular interpretation of life that might be
+    similarly misleading.
+- pub: 
+  title: From single steps to mass migration:the problem of scale in the movementecology of the Serengeti wildebeest.
+  author: Colin J. Torney, J. Grant C. Hopcraft, Thomas A. Morrison, Iain D. Couzin, and Simon A. Levin
+  year: 2017
+  link: torney2017.pdf
+  description: >
+     If you are to read one paper from our list on the fascinating and inspiring
+     topic of animal movements (and the wildebeest in particular), this is
+     it. The paper ranges from how measurements are done, to the kinds of data
+     that result to the kinds of models that are needed to come to terms with
+     that data 
