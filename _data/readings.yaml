@@ -47,6 +47,7 @@ Day 1:
      it. The paper ranges from how measurements are done, to the kinds of data
      that result to the kinds of models that are needed to come to terms with
      that data 
+
  - pub: 
    title: What Is Mathematics For?
    author: Underwood Dudley. 
@@ -56,3 +57,12 @@ Day 1:
     This is just a fun little excursion into where mathematics fits in our
     education. I find it a refreshing antidote to specious arguments about the
     role (i.e. non role) of mathematics in our daily lives.
+
+- pub:
+  title: Patterns of predation in a diverse predator–prey system
+  author: Tony Sinclair, Simon Mduma, and Justin Brashares.
+  year: 2003
+  link: sinclair2003.pdf
+  description: >
+    This is an incredible paper which quantitatively explores predator-prey dynamics
+    of the Serengeti ecosystem, showing that ≈100% of impala die from predation. 
