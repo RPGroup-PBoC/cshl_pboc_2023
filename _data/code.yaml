@@ -17,8 +17,8 @@ Exercises:
       In this exercise, we learn some simple techniques of quantitative image 
       processing and try to count elephants in two satellite images.
     links:
-      Elephant Image 1: "https://rpgroup.caltech.edu/cshl_pboc_2023/Elephants1.jpg"
-      Elephant Image 2: "https://rpgroup.caltech.edu/cshl_pboc_2023/Elephants2.jpg"
+      Elephant Image 1: "http://rpgroup.caltech.edu/cshl_pboc_2023/Elephants1.jpg"
+      Elephant Image 2: "http://rpgroup.caltech.edu/cshl_pboc_2023/Elephants2.jpg"
 
   - script: 
     title: "Tutorial 2: Spotting Elephants Through Machine Learning"
