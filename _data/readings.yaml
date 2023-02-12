@@ -58,11 +58,11 @@ Day 1:
     education. I find it a refreshing antidote to specious arguments about the
     role (i.e. non role) of mathematics in our daily lives.
 
-- pub:
-  title: Patterns of predation in a diverse predator–prey system
-  author: Tony Sinclair, Simon Mduma, and Justin Brashares.
-  year: 2003
-  link: sinclair2003.pdf
-  description: >
+ - pub:
+   title: Patterns of predation in a diverse predator–prey system
+   author: Tony Sinclair, Simon Mduma, and Justin Brashares.
+   year: 2003
+   link: sinclair2003.pdf
+   description: >
     This is an incredible paper which quantitatively explores predator-prey dynamics
     of the Serengeti ecosystem, showing that ≈100% of impala die from predation. 
