@@ -22,7 +22,7 @@ sessions here.
 # {{topic[0]}}
 {% for script in topic[1] %}
 * {%if script.colab %}[**{{script.title}}**]({{script.colab}}){%else%}**{{script.title}}**{%endif%}\|
-  {{script.description}}  {%if script.links %} <br/> <ul> {%for l in script.links
-  %} <i> [**{{l[0]}}**]({{l[1]}}) </i> {%endfor%} </ul> {%endif%}
+  {{script.description}}  {%if script.links %} <br/> <ul>  {%for l in script.links
+  %} <i> [**{{l[0]}}**]({{l[1]}}) </i> {%endfor%} </ul>  {%endif%}
 {%endfor%}
 {%endfor%}
