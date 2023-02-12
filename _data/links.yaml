@@ -5,6 +5,20 @@
     This book by Sanjoy Mahajan is about the rules of sloppy mathematical
     reasoning that we will often advocate.
 - link:
+  title: Cell Biology by the Numbers
+  address: "http://book.bionumbers.org/"
+  description: >
+    A book that performs a surfeit of order-of-magnitude estimates in the 
+    context of cell biology.
+
+- link:
+  title: The BioNumbers Database
+  address: "https://bionumbers.hms.harvard.edu/search.aspx"
+  description: >
+    This database has over 20,000 numbers pertinent to biology, ranging from 
+    protein concentrations, to extinction rates, to agriculture.  
+
+- link:
   title: The Human Impacts Database. 
   address: "https://anthroponumbers.org"
   description: >
