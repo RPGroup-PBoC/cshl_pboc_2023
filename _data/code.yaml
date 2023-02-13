@@ -24,26 +24,28 @@ Exercises:
 
   - script: 
     title: "Tutorial 2: Spotting Elephants Through Machine Learning"
+    colab: "https://colab.research.google.com/drive/1hTDHSAOmcP_jbv_SZkCQpLEUSOSapISH?usp=sharing"
     description: >  
       In this exercise, we cover the basics of machine learning and create an
       artificial neuron from scratch to identify "elephants" in a toy dataset. 
     links:
       In-Class Code (Day 1): "https://colab.research.google.com/drive/1eGKGDC3e0Tourscm7VW__xeJeeAuW7Jj?usp=sharing"
+      In-Class Code (Day 2): "https://colab.research.google.com/drive/1IcUDOEp7Kc_QVVLKrQwOqUlgBBoJrIp1?usp=sharing"
       Example Training Image: "http://rpgroup.caltech.edu/cshl_pboc_2023/datasets/elephant_training_image.tif"
       Example Training Label Image: "http://rpgroup.caltech.edu/cshl_pboc_2023/datasets/elephant_training_label.tif"
       Complete Training Dataset: "http://rpgroup.caltech.edu/cshl_pboc_2023/datasets/elephant_training_pixels.csv"
       Test Image: "http://rpgroup.caltech.edu/cshl_pboc_2023/datasets/elephant_test_image.tif"
       Test Label Image: "http://rpgroup.caltech.edu/cshl_pboc_2023/datasets/elephant_test_label.tif"
 
-  - script:
-    title: "Tutorial 3: Diffusion and Random Walks"
-    description: >
-      Through stochastic simulations, we explore how diffusion can be understood as a random walk.
+  # - script:
+  #   title: "Tutorial 3: Diffusion and Random Walks"
+  #   description: >
+  #     Through stochastic simulations, we explore how diffusion can be understood as a random walk.
       
-  - script:
-    title: "Tutorial 4: Integrating the Dynamics of Constitutive Expression"
-    description: >
-      In this exercise, we use a chemical master equation to dissect dynamics 
-      of constitutive expression.
-    links:
-      Google Colab Template: "https://colab.research.google.com/drive/1-C8DlYU0p-4rkrQY7If2O-9GcUPWrcpv?usp=sharing"
+  # - script:
+  #   title: "Tutorial 4: Integrating the Dynamics of Constitutive Expression"
+  #   description: >
+  #     In this exercise, we use a chemical master equation to dissect dynamics 
+  #     of constitutive expression.
+  #   links:
+  #     Google Colab Template: "https://colab.research.google.com/drive/1-C8DlYU0p-4rkrQY7If2O-9GcUPWrcpv?usp=sharing"
