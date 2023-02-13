@@ -85,3 +85,11 @@ Day 2:
     description:
       One of our favorite papers using quantitative mass spectrometry to simply measure the protein abundances 
       in *E. coli* across a gamut of growth conditions. 
+
+  - pub:
+    title: "Models in biology: ‘accurate descriptions of our pathetic thinking’"
+    authors: Jeremy Gunawardena 
+    year: 2014
+    link: gunawardena2014.pdf
+    description:
+      An excellent piece touching on the utility of models in biology. 
