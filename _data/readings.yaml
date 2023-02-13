@@ -93,3 +93,13 @@ Day 2:
     link: gunawardena2014.pdf
     description:
       An excellent piece touching on the utility of models in biology. 
+
+  - pub:
+    title: "Spatially Ordered Dynamics of theBacterial Carbon Fixation Machinery"
+    authors: Dave Savage, Bruno Afonso, Anna H. Chen, and Pamela A. Silver 
+    year: 2010
+    link: savage2010.pdf
+    description:
+      This paper examines how carboxysomes are partitioned in dividing cyanobacteria 
+      and uses one of the great probability distributions to assess whether inheritance 
+      is random or active.  
