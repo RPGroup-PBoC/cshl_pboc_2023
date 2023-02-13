@@ -75,3 +75,13 @@ Day 1:
    description: >
     This is a fun paper that does a systematic comparison between  deep learning for detection 
     of animals and human annotation by citizen scientists.
+
+Day 2:
+  - pub:
+    title: The quantitative and condition-dependent *Escherichia coli* proteome
+    authors: Alexander Schmidt, Karl Kochanowski, Silke Vedelaar, Erik Ahrné, Benjamin Volkmer, Luciano Callipo, Kèvin Knoops, Manuel Bauer, Ruedi Aebersold, and  Matthias Heinemann
+    year: 2016
+    link: schmidt2016.pdf
+    description:
+      One of our favorite papers using quantitative mass spectrometry to simply measure the protein abundances 
+      in *E. coli* across a gamut of growth conditions. 

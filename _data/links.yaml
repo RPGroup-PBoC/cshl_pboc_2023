@@ -47,7 +47,17 @@
   description: > 
     A series of Python tutorials on basic image processing, with a little more 
     detail than what we did in class.
-    
+
+- link:
+  title: "Interactive Proteomics Explorer"
+  address: "https://www.rpgroup.caltech.edu/growth_limits/data_explorer"
+  description: > 
+    A web app for quantitatively exploring the abundance of different proteins 
+    and protein complexes in *E. coli* as a function of growth rate.
+
+
+
+
 # - link:
 #   title: Nextstrain. 
 #   address: "https://nextstrain.org/ncov"
