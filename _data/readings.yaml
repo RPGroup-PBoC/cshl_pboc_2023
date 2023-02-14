@@ -126,3 +126,11 @@ Day 3:
     link: dobzhansky1973.pdf
     description:
       A classsic paper presenting evolution as one of biology's central organizing principles.
+
+  - pub:
+    title: "Schrödinger's 'What is Life?' at 75"
+    authors: Rob Phillips
+    year: 2021
+    link: phillips2021.pdf
+    description:
+      An article by Rob on the state of "what is life?" after 75 years.
