@@ -38,12 +38,13 @@ Exercises:
       Test Label Image: "http://rpgroup.caltech.edu/cshl_pboc_2023/datasets/elephant_test_label.tif"
       
   - script:
-    title: "Tutorial 4: Integrating the Dynamics of Constitutive Expression"
+    title: "Tutorial 3: Integrating the Dynamics of Constitutive Expression"
+    colab: "https://colab.research.google.com/drive/1Lg0HKBgAo83DrUV1MNLqP3psfJp5u1HJ?usp=sharing"
     description: >
       In this exercise, we use a chemical master equation to dissect dynamics 
       of constitutive expression.
     links:
-      Google Colab Template: "https://colab.research.google.com/drive/1-C8DlYU0p-4rkrQY7If2O-9GcUPWrcpv?usp=sharing"
+      In Class: "https://colab.research.google.com/drive/1mIfBIPVI_u3Oph8hJ7Adn5ObJz8OXcXn?usp=sharing" 
 
   # - script:
   #   title: "Tutorial 3: Diffusion and Random Walks"
