@@ -111,3 +111,18 @@ Day 3:
     link: helenius2006.pdf
     description:
       In this study, Jo Howard and his crew measure the waiting time distribution of kinesins walking on microtubules. 
+  - pub:
+    title: "In Memoriam: Jacques Monod (1910–1976)"
+    authors: Agnes Ullmann
+    year: 2011
+    link: ullmann2011.pdf
+    description:
+      An excellent tribute to the life of Jacques Monod.
+
+  - pub:
+    title: "Nothing in biology makes sense except in the light of evolution"
+    authors: "Theodosius Dobzhansky"
+    year: 1973
+    link: dobzhansky1973.pdf
+    description:
+      A classsic paper presenting evolution as one of biology's central organizing principles.
