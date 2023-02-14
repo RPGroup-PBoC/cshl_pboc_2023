@@ -103,3 +103,11 @@ Day 2:
       This paper examines how carboxysomes are partitioned in dividing cyanobacteria 
       and uses one of the great probability distributions to assess whether inheritance 
       is random or active.  
+Day 3:
+  - pub:
+    title: "The depolymerizing kinesin MCAK uses lattice diffusion to rapidly target microtubule ends"
+    authors: Jonne Helenius, Gary Brouhard, Yannis Kalaidzidis, Stefan Diez, and Jonathon Howard
+    year: 2006
+    link: helenius2006.pdf
+    description:
+      In this study, Jo Howard and his crew measure the waiting time distribution of kinesins walking on microtubules. 

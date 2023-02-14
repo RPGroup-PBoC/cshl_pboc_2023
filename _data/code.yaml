@@ -46,8 +46,12 @@ Exercises:
     links:
       In Class: "https://colab.research.google.com/drive/1mIfBIPVI_u3Oph8hJ7Adn5ObJz8OXcXn?usp=sharing" 
 
-  # - script:
-  #   title: "Tutorial 3: Diffusion and Random Walks"
-  #   description: >
-  #     Through stochastic simulations, we explore how diffusion can be understood as a random walk.
-      
+  - script:
+    title: "Tutorial 4: Diffusion and Random Walks"
+    colab: "https://colab.research.google.com/drive/1a_8T8zamZXYn0b2fNfgwC9NpuE3nE0td?usp=sharing"
+    description: >
+      Through stochastic simulations, we explore how diffusion can be understood as a random walk.
+    links:
+      In Class: "https://colab.research.google.com/drive/1gaRAE9iYOEmoXy-LuRlm9mE4P1QqPwkv?usp=sharing" 
+
+
