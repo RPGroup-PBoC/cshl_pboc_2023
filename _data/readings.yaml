@@ -134,3 +134,16 @@ Day 3:
     link: phillips2021.pdf
     description:
       An article by Rob on the state of "what is life?" after 75 years.
+
+Day 4:
+  - pub: 
+    title: "Be Prospective, not Retrospective: A Philosophy for Advancing Reproducibility in Modern Biological Research"
+    authors: Griffin Chure
+    year: 2022
+    link: chure2022c.pdf
+    description: >
+      An article by Griffin presenting his philosophy for performing reproducible research. See also the 
+      links for <a href="https://github.com/gchure/reproducible_research">a GitHub Template</a> and 
+      a <a href="https://github.com/gchure/reproducible_website"> template repository</a> for turning your 
+      repository into a reproducible website. 
+
