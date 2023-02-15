@@ -54,4 +54,17 @@ Exercises:
     links:
       In Class: "https://colab.research.google.com/drive/1gaRAE9iYOEmoXy-LuRlm9mE4P1QqPwkv?usp=sharing" 
 
+  - script: "Tutorial 5: The Taylor Expansion"
+    description: >
+      Our in-class exercise on computing and plotting the Taylor expansion of a few 
+      functions.
+    links:
+      In Class: "https://colab.research.google.com/drive/13jeRVHYUPWzBJzlBNZmkXIhHRJMwb4TW?usp=sharing"
+
+   - script: "Tutorial 6: Autoactivation" 
+     colab: "https://colab.research.google.com/drive/1iOTfgVvFkPT_q0VmIFxJjMMnkwLEsUH4?usp=sharing" 
+     description: >
+        Here we explore the dynamics and stability of fixed points in the context of 
+        autoregulation. 
+    
 
