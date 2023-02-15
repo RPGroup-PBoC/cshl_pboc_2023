@@ -147,3 +147,13 @@ Day 4:
       a <a href="https://github.com/gchure/reproducible_website"> template repository</a> for turning your 
       repository into a reproducible website. 
 
+  - pub:
+    title: "Whence cometh the allosterome?"
+    authors: Janet Lindsley and Jared Rutter.
+    year: 2006
+    link: lindsley2006.pdf
+    description: >
+      A favorite paper of ours that outlines the vast chasm in our knowledge of what the allosteric 
+      effectors are that regulate the myriad proteins in biology.
+
+      
