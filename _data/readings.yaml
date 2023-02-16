@@ -156,4 +156,10 @@ Day 4:
       A favorite paper of ours that outlines the vast chasm in our knowledge of what the allosteric 
       effectors are that regulate the myriad proteins in biology.
 
-      
+Day 5:
+  - pub:
+    title: "Multistability in the lactose utilization network of <i>Escherichia coli</i>"
+    authors: Ertugrul M. Ozbudak, Mukund Thattai, Han N. Lim, Boris I. Shraiman, and  Alexander van Oudenaarden.
+    link: ozbudak2004.pdf
+    description: >
+      This paper demonstrates hysteresis and multistability in a simple genetic network.
