@@ -176,7 +176,15 @@ Day 6:
   - pub:
     title: "Yeast kinesin-8 depolymerizes microtubules in a length-dependent manner"
     authors: Vladimir Varga, Jonne Helenius, Kozo Tanaka, Anthony A. Hyman, Tomoyuki U. Tanaka, and Jonathon Howard.
-    link: varga2006
+    link: varga2006.pdf
     year: 2004
     description: >
       A paper by Jo Howard and company which show that a specific kinesin depolymerizes microtubules by ripping a monomer off the end.
+  - pub:
+    title: "Anthroponumbers.org: A quantitative database of human impacts on Planet Earth" 
+    authors: >
+      Griffin Chure, Rachel A. Banks, Avi I. Flamholz, Nicholas S. Sarai, Mason Kamb,
+      Ignacio Lopez-Gomez, Yinon Bar-On, Ron Milo, and Rob Phillips.
+    link: chure2022b.pdf
+    description: >
+      This is our paper presenting and using the Human Impacts Database. 
