@@ -74,9 +74,9 @@ Exercises:
      links:
       In Class: "https://colab.research.google.com/drive/1oOTMHR3wGUzErb4swM81i977H6ZrYthk?usp=sharing"
  
-  - script: "Tutorial 7x: Gillespie simulation of the constitutive promoter"
-    colab: "https://drive.google.com/file/d/190VsVUXook0rSiqPbozoTPJv4W634d3A/view?usp=sharing"
-    description: >
+   - script: "Tutorial 7x: Gillespie simulation of the constitutive promoter"
+     colab: "https://drive.google.com/file/d/190VsVUXook0rSiqPbozoTPJv4W634d3A/view?usp=sharing"
+     description: >
       As Madhav mentioned in class, we can take a more 'appropriate' approach to simulating
       stochastic processes by considering the fact that rates are variable, and we often 
       only speak in terms of average rates. This tutorial walks you through a Gillespie 
