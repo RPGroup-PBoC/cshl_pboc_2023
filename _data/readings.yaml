@@ -160,6 +160,23 @@ Day 5:
   - pub:
     title: "Multistability in the lactose utilization network of <i>Escherichia coli</i>"
     authors: Ertugrul M. Ozbudak, Mukund Thattai, Han N. Lim, Boris I. Shraiman, and  Alexander van Oudenaarden.
+    year: 2004
     link: ozbudak2004.pdf
     description: >
       This paper demonstrates hysteresis and multistability in a simple genetic network.
+  - pub:
+    title: ""
+    authors: Manuel Razo-Mejia, Stephanie Barnes, Nathan Bellieveau, Griffin Chure, Tal Einav, Mitchell Lewis, and Rob Phillips.
+    year: 2018
+    link: razomejia2018.pdf
+    description: >
+      One of our papers applying the MWC model to understand transcriptional regulation in 
+      <i>E. coli</i>.
+Day 6:
+  - pub:
+    title: "Yeast kinesin-8 depolymerizes microtubules in a length-dependent manner"
+    authors: Vladimir Varga, Jonne Helenius, Kozo Tanaka, Anthony A. Hyman, Tomoyuki U. Tanaka, and Jonathon Howard.
+    link: varga2006
+    year: 2004
+    description: >
+      A paper by Jo Howard and company which show that a specific kinesin depolymerizes microtubules by ripping a monomer off the end.
