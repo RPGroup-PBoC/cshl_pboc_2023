@@ -86,4 +86,8 @@ Exercises:
       only speak in terms of average rates. This tutorial walks you through a Gillespie 
       simulation for expression from a constitutive promoter. 
 
-
+  - script:
+    title: "Tutorial 8: Control of flagellar lengths in <i>Chlamydomonas</i.>"
+    colab: "https://colab.research.google.com/drive/1QXEEUmS4KKWEBX8uBdBl4pukyJYm3Vg6?usp=sharing"
+    description: >
+      This tutorial presents a combination of numerics and analytics to explore flagellar length control.
