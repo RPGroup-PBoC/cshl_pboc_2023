@@ -197,3 +197,22 @@ Day 7:
     year: 2021
     description: >
       A paper containing some excellent estimates in the context of phase separation.
+  - pub:
+    title: "Reasoning for results"
+    authors: Dennis Bray
+    year: 2001
+    link: bray2001.pdf
+  - pub:
+    title: Life’s code script
+    authors: Sydney Brenner
+    year: 2012
+    link: brenner2012.pdf
+  - pub:
+    title: "Biology must generate ideas as well as data"
+    authors: Paul Nurse
+    year: 2021
+    link: nurse2021.pdf
+  - pub:
+    title: Four golden lessons
+    authors: weinberg2003.pdf
+    year: 2003
