@@ -172,6 +172,7 @@ Day 5:
     description: >
       One of our papers applying the MWC model to understand transcriptional regulation in 
       <i>E. coli</i>.
+
 Day 6:
   - pub:
     title: "Yeast kinesin-8 depolymerizes microtubules in a length-dependent manner"
@@ -188,3 +189,11 @@ Day 6:
     link: chure2022b.pdf
     description: >
       This is our paper presenting and using the Human Impacts Database. 
+Day 7:
+  - pub:
+    title: "Local thermodynamics govern formation and dissolution of <i>Caenorhabditis elegans</i> P granule condensates"
+    authors: Anatol W. Fritsch, Andres F. Diaz-Delgadillo, Omar Adame-Aranac, Carsten Hoege, Matthaus Mittasch, Moritz Kreysing, Mark Leaver ,Anthony A. Hyman, Frank Jülicher, and Christoph A. Weber.
+    link: fritsch2021.pdf
+    year: 2021
+    description: >
+      A paper containing some excellent estimates in the context of phase separation.
